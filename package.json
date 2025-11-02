@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Zac Anger (https://zacanger.com)",
+  "author": "zautumnz",
   "license": "ISC",
   "dependencies": {
     "@octokit/rest": "16.18.1",
